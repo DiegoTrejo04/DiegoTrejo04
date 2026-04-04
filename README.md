@@ -42,5 +42,21 @@ Si estás buscando a alguien con ganas de aprender, crecer y trabajar en equipo,
 
 ---
 
+## 📊 Estado Actual del Proyecto
+
+### 📱 App Android — Registro de Días de Descanso
+| Módulo | Estado |
+|---|---|
+| Diseño de UI (pantallas principales) | ✅ Completado |
+| Autenticación de usuario | 🔄 En progreso |
+| Registro de días con evidencia fotográfica | 🔄 En progreso |
+| Base de datos local (Room) | ⏳ Pendiente |
+| Integración con backend | ⏳ Pendiente |
+| Pruebas y despliegue | ⏳ Pendiente |
+
+> **Última actualización:** Abril 2026 — Avance estimado: ~30%
+
+---
+
 ## ⚡ Frase que me representa:
 > *"No se trata solo de programar, se trata de resolver problemas y aprender en el camino."*
