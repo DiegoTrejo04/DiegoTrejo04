@@ -29,6 +29,25 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** en el Tecnológico
 
 ---
 
+## 📊 Avance de Proyectos
+
+| Proyecto | Estado | Avance |
+|---|---|---|
+| 📚 Sistema de Biblioteca | ✅ Completado | █████████░ 90% |
+| 🛒 Tienda de componentes | ✅ Completado | ██████████ 100% |
+| ⚖️ Bufete de abogados | ✅ Completado | ██████████ 100% |
+| 📆 App Android personal | 🔄 En desarrollo | █████░░░░░ 50% |
+
+### 🔄 App Android — Progreso actual
+- [x] Diseño de pantallas principales  
+- [x] Configuración del proyecto en Android Studio  
+- [x] Estructura de base de datos local (Room)  
+- [ ] Módulo de captura de evidencia fotográfica  
+- [ ] Integración con calendario de turnos  
+- [ ] Pruebas y ajustes finales  
+
+---
+
 ## 🚀 Objetivos
 
 Actualmente busco una **oportunidad como becario** o programador junior donde pueda seguir creciendo, aportar mis conocimientos y ganar experiencia en el mundo real.  
